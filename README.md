@@ -1,2 +1,3 @@
 # Plcodelab2test
-latihan pengguna git untuk proyek sederhana
+disini saya mengetik codingan dasar tentang main,
+dan saya isi di printnya dengan tulisan "hello git from java
